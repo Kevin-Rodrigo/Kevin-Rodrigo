@@ -4,7 +4,7 @@
 📍 Colombo, 🇱🇰  
 📧 Email: [kevinrodrigo1807@gmail.com](mailto:kevinrodrigo1807@gmail.com)  
 🔗 LinkedIn: [Kevin Rodrigo](https://linkedin.com/in/kevinrodrigo1807)   
-👨‍💻 GitHub: [sKevin Rodrigo](https://github.com/Kevin-Rodrigo)  
+👨‍💻 GitHub: [Kevin Rodrigo](https://github.com/Kevin-Rodrigo)  
 
 ## About Me 🌐
 Innovative Computer Science undergraduate with expertise in data science, machine learning, and front-end development. Skilled in translating complex concepts into actionable solutions, driving efficiency through advanced technologies, and leading dynamic projects with clarity and impact. Passionate about leveraging data-driven insights to solve real-world problems and contribute to forward-thinking teams. 
