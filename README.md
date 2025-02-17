@@ -10,10 +10,6 @@
 Innovative Computer Science undergraduate with expertise in data science, machine learning, and front-end development. Skilled in translating complex concepts into actionable solutions, driving efficiency through advanced technologies, and leading dynamic projects with clarity and impact. Passionate about leveraging data-driven insights to solve real-world problems and contribute to forward-thinking teams. 
 
 
-| <a href="https://github.com/Kevin-Rodrigo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevin-Rodrigo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevin's GitHub Stats" /></a> | <a href="https://github.com/Kevin-Rodrigo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Rodrigo&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
 ## Professional Highlights 🌟 
 - **Virtualization and Cloud Solutions Intern** at V S Information Systems (Pvt) Ltd, Sri Lanka ( Aug 2024 - Present)
 
