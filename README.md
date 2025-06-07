@@ -11,7 +11,7 @@ Innovative Computer Science undergraduate with expertise in data science, machin
 
 
 ## Professional Highlights 🌟 
-- **Virtualization and Cloud Solutions Intern** at V S Information Systems (Pvt) Ltd, Sri Lanka ( Aug 2024 - Present)
+- **Pre Sales Engineer (Intern) - Virtualization and Cloud Solutions** at V S Information Systems (Pvt) Ltd, Sri Lanka ( Aug 2024 - March 2025)
 
 ## Tech Toolbox 🛠️
 - **Languages**: Java, C#, Python, R, JavaScript, SQL, HTML, CSS, PHP
